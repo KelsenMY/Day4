@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/myproject.dir/KeyboardControl.cpp.o CMakeFiles/myproject.dir/PIDControl.cpp.o CMakeFiles/myproject.dir/interfaceSIM.cpp.o CMakeFiles/myproject.dir/main.cpp.o -o myproject  -lncurses -ljsoncpp 

@@ -1,0 +1,3 @@
+/home/kelsen/sefi_cpp/Day4/build/CMakeFiles/myproject.dir
+/home/kelsen/sefi_cpp/Day4/build/CMakeFiles/edit_cache.dir
+/home/kelsen/sefi_cpp/Day4/build/CMakeFiles/rebuild_cache.dir
